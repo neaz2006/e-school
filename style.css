@@ -4,6 +4,15 @@
     box-sizing: border-box;
     font-family: "Poppins","Roboto", sans-serif;
 }
+#navication ul li a{
+    color: black;
+    margin: 10px;
+}
+#navication ul li a:hover{
+    color: white;
+    background-color: #21b573;
+    border-radius: 30px;
+}
 h1 {
     font-weight: 800;
 }
@@ -13,9 +22,7 @@ header {
 header img {
     width: 250px;
 }
-.header-teg h1 span{
-   
-}
+
 header p span {
     color: #fd511a;
 }
@@ -23,7 +30,7 @@ header h1{
     font-weight: 600;
     font-size: 48px;
 }
-header  h1 span {
+header h1 span {
     color: #21b573;
 }
 .btn-green {
@@ -35,15 +42,6 @@ header  h1 span {
     border-radius: 33px;
     color: white;
     font-family: "Roboto", sans-serif;
-}
-.manu-area ul li a {
-    color: black;
-}
-
-.manu-area ul li a:hover {
-    background-color: #21b573;
-    border-radius: 15px;
-    color: white;
 }
 .icon-area img {
     width: 150px;
@@ -100,4 +98,15 @@ footer ul li a {
     color: white;
     font-size: 13px;
     text-decoration: none;
+}
+footer ul li a:hover{
+    text-decoration: none;
+    color: #21b573;;
+}
+.extra img{
+    width: 35px;
+    margin: 10px;
+}
+.extra a:hover img{
+border-bottom: 4px solid #21b573;
 }

@@ -1,0 +1,101 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Poppins', sans-serif;    
+}
+h1{
+    font-weight: 800;
+}
+}
+header{
+    background-color: #F0FFF0;
+}
+header img{
+    width: 250px;
+}
+.header-teg h1{
+    font-family: 'Poppins', sans-serif;
+    font-size:48px;
+}
+.header-teg h1{
+    font-family: 'Poppins', sans-serif;
+    font-weight: 600;
+}
+header p span{
+    color: #FD511A;
+}
+header  span{
+    color: #21B573;
+}
+.btn-green{
+    background: #21B573;
+    width: 153px;
+    height: 43px;
+    border: none;
+    border-radius: 33px;
+    color: white;
+    font-family: 'Roboto', sans-serif;
+}
+.manu-area ul li a{
+    color: black;
+}
+
+.manu-area ul li a:hover{
+    background-color:  #21B573;
+    border-radius: 15px;
+    color: white;
+
+}
+.icon-area img{
+    width: 150px;
+    height: 120px;
+    padding: 40px;
+    margin: auto;
+    padding-bottom: 0;
+}
+.icon-area .col-sm-3 .card{
+    border: none;
+    background-color: #F8FFFB;
+}
+.icon-area .card:hover{
+    background: white;
+
+}
+small img{
+   width: 18px;
+   height: 20px;
+}
+.icon-area 
+.card{
+    border: none;
+    border-radius: 10px;
+    box-shadow: 4px 4px 25px #e9e7e7;
+}
+.online-courses
+.card{
+    border: none;
+    border-radius: 10px;
+    box-shadow: 4px 4px 25px #e9e7e7;
+}
+.online-courses .card .card-footer{
+    background-color: white;
+    border: none;
+    margin-top: 10px;
+}
+.testimonial-area img{
+    width: 150px;
+}
+footer{
+    color: aliceblue
+}
+footer ul {
+    padding: 0;
+}
+footer ul li{
+    text-decoration: none;
+    list-style: none;
+}
+footer ul li a{
+    color: white;
+}

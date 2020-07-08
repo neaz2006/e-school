@@ -43,29 +43,26 @@ header h1 span {
     color: white;
     font-family: "Roboto", sans-serif;
 }
-.icon-area img {
+.icon-card img {
     width: 150px;
     height: 120px;
     padding: 40px;
     margin: auto;
     padding-bottom: 0;
 }
-.icon-area .col-sm-3 .card {
-    border: none;
-    background-color: #f8fffb;
-}
-.icon-area .card:hover {
-    background: white;
+.icon-card .card:hover {
+    background: white;    
+    box-shadow: 4px 4px 25px gray;
 }
 small img {
     width: 18px;
     height: 20px;
 }
-.icon-area .card {
+.icon-card .card {
     margin-top: 20px;
     border: none;
     border-radius: 10px;
-    box-shadow: 4px 4px 25px #e9e7e7;
+    background-color: #F8FFFB;
 }
 .online-courses .card {
     margin-top: 20px;
@@ -77,9 +74,6 @@ small img {
     background-color: white;
     border: none;
     margin-top: 10px;
-}
-.testimonial-area{
-    
 }
 .testimonial-area img {
     width: 150px;
@@ -105,8 +99,8 @@ footer ul li a:hover{
 }
 .extra img{
     width: 35px;
-    margin: 10px;
+    margin: 0 10px;
 }
-.extra a:hover img{
-border-bottom: 4px solid #21b573;
+.extra img:hover{   
+box-shadow: 4px 4px 25px lightgray;
 }

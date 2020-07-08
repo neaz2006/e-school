@@ -13,18 +13,17 @@ header {
 header img {
     width: 250px;
 }
-.header-teg h1 {
-    font-family: "Poppins", sans-serif;
-    font-size: 48px;
-}
-.header-teg h1 {
-    font-family: "Poppins", sans-serif;
-    font-weight: 600;
+.header-teg h1 span{
+   
 }
 header p span {
     color: #fd511a;
 }
-header span {
+header h1{
+    font-weight: 600;
+    font-size: 48px;
+}
+header  h1 span {
     color: #21b573;
 }
 .btn-green {
@@ -81,6 +80,9 @@ small img {
     border: none;
     margin-top: 10px;
 }
+.testimonial-area{
+    
+}
 .testimonial-area img {
     width: 150px;
 }
@@ -96,4 +98,6 @@ footer ul li {
 }
 footer ul li a {
     color: white;
+    font-size: 13px;
+    text-decoration: none;
 }

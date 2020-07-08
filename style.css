@@ -29,6 +29,7 @@ header span {
 }
 .btn-green {
     background: #21b573;
+    margin-bottom: 30px;
     width: 153px;
     height: 43px;
     border: none;
